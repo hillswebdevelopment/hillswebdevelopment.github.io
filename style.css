@@ -1,0 +1,148 @@
+* {
+box-sizing: border-box;
+    /*border: 1px solid black;*/
+   margin: 0;
+    padding: 0;
+}
+
+#image {
+background-image: url(http://www.horadent.com/i/2017/05/abstract-wallpapers-iphone.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fc3747;
+}
+
+#menu {
+    display: block;
+    padding-bottom: 5rem;
+    background-color: #fc3747;
+    text-decoration: none;
+    color: white;
+    height: 6em;
+    z-index: 10000;
+    position: fixed;
+    min-width: 100%;
+}
+
+#menu > a > h1 {
+width: 12rem;
+    float: left;
+    color: white;
+    background-color: #fc3747;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+#menu > a > h1:hover {
+color: #29e86c;
+}
+
+#menu > h3 {
+float: right;
+    min-width: 18rem;
+    max-width: 18rem
+    width: 18rem;
+    color: white;
+    background-color: #fc3747;
+    margin: 0.5em;
+    font-family: 'Oswald', sans-serif;
+    padding-right: 3em;
+}
+
+#menu > h3 > a {
+color: white;
+    text-decoration: none;
+    
+}
+
+#quote {
+text-align: center;
+    padding: 20em;
+    font-family: 'Overpass', sans-serif;
+}
+
+#menu > h3 > a:hover {
+color: #29e86c;
+}
+
+.colored {
+background-color: #04f9a4;
+}
+
+.colored > h2 {
+text-align: center;
+    width: 100%;
+    padding: 1.25em;
+    font-size: 2.5em;
+    font-family: 'Oswald', sans-serif;
+}
+
+.colored > p {
+width: 100%;
+    min-width: 100%;
+    text-align: center;
+    font-size: 1.65em;
+    padding-bottom: 1.25em;
+    font-family: 'Roboto', sans-serif;
+}
+
+#green {
+background-image: url(https://wallpaperlovez.com/wp-content/uploads/Colorful-Backgrounds-Colorful-Abstract-Wallpapers.-Courtains-Fresh.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#green > h2 {
+text-align: center;
+    padding: 0.5em;
+    font-size: 2.50em;
+    font-family: 'Oswald', sans-serif;
+}
+
+#green > p {
+text-align: center;
+    width: 100%;
+    min-width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#coming {
+font-size: 1.85em;
+}
+
+#p2green {
+width: 100%;
+    min-width: 100%;
+    text-align: center;
+    font-size: 1.65em;
+    padding-bottom: 1.50em;
+}
+
+#footer {
+background-color: #fc3747;
+}
+
+#copyright {
+font-family: 'Overpass', sans-serif;
+}
+
+#reminder {
+font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
